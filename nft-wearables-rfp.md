@@ -105,3 +105,14 @@ The below requirements are used as a measure to compare different System design 
     5.2  The System SHOULD support millions of NFTs.
 ### 6. Governance
     6.1 Governance of the System, should it exist, SHOULD be controlled by OMA3
+
+## Authors
+
+* Grig Bilham (Sumset)
+* Alfred Tom (Wivity)
+* Anthony Estebe (Liteflow)
+* Bronson Lingamfelter (One Earth Rising)
+
+## Appendix: Existing Art
+
+This appendix is a partial list of technology, practices, and solutions that are relevant to IWPS.  The goal is to add to this list so it is more comprehensive as this is a work in progress.  
