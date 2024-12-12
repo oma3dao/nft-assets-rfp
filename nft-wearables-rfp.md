@@ -108,8 +108,8 @@ The below requirements are used as a measure to compare different System design 
 
 ## Authors
 
-* Grig Bilham (Sumset)
-* Alfred Tom (Wivity)
+* Grig Bilham (SumSet Tech)
+* Alfred Tom (Wivity Inc.)
 * Anthony Estebe (Liteflow)
 * Bronson Lingamfelter (One Earth Rising)
 
