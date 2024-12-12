@@ -28,7 +28,7 @@ In this RFP, the main actors are as follows:
   * User: Interact with the NFTs by purchasing, equipping, and exporting wearables. They expect wearables to function consistently across different platforms.
   * Avatar: the representation of the User in a Platform.
   * Blockchain Infrastructure: Store the data, including metadata and ownership details of the NFT wearables. They are responsible for ensuring secure and verifiable ownership and provenance.  This infrastructure may include offchain servers.
-  * Marketplace: Facilitate the discoverability and trading of NFT wearables across different platforms.
+  * Marketplace: Facilitate the discoverability and trading of NFT wearables across different platforms.  
 
 ![Figure1](https://github.com/oma3dao/nft-assets-rfp/blob/main/figure%201.png)  
 _Figure 1: Main actors_  
